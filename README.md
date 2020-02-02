@@ -13,6 +13,7 @@ docker setup file, nginx+ SSL
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/lara58_15_docker_SSL
 
 ***
 
